@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**descripted/descripted** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hiyo I'm skullface ! 👋
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+#### I'm a Active Learner in C#/C++
+
+* Goals Game Dev; heat Creator; Reverse Engineer
+
+
+## 🛠 Skills
+HTML, CSS, C#
+
+## Socials
+
+![Twitter Follow](https://img.shields.io/twitter/follow/KoriaVR?style=for-the-badge&logo=Twitter)
+![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fwinners-blueviolet?style=for-the-badge&logo=DIscord)
+
