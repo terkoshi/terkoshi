@@ -1,11 +1,11 @@
 
-## Hiyo I'm skullface ! 👋
+## Hiyo I'm $kullface! 
 
 
-### 🚀 About Me
+###  About Me
 #### I'm a Active Learner in C#/C++
 
-* Goals Game Dev; heat Creator; Reverse Engineer
+* Goals: Game Dev; Cheat Creator; Reverse Engineer
 
 
 ## 🛠 Skills
