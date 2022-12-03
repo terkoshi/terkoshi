@@ -4,8 +4,8 @@
 
 ###  About Me
 #### I'm a Active Learner in C#/C++
-####  * 15yrs
-####  * Trans MTF
+#### * 15yrs
+#### * Trans MTF
 * Goals: Game Dev; Cheat Creator; Reverse Engineer
 
 
