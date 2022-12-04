@@ -22,7 +22,7 @@
 
 ## Socials
 
-[1]: https://diiscord.gg/winners
+[1]: https://discord.gg/winners
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
 ---
