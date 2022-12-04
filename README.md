@@ -10,13 +10,18 @@
 
 
 ###  About Me
-#### I'm a Active Learner in C#/C++ 
-* I'm 15 years old ; Trans M2F : African/American
+
+* I'm 15 years old : Trans M2F : African/American
 * In love <3
 * GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
+* Unity Master
 * Goals: Game Dev; Cheat Creator; Reverse Engineer ; Video Editor; Music Producer; GFX Artist
-* Trans M ~> F
-* 
+## What I'm Learning
+
+* Photoshop 
+* C++
+* C#
+
 ## What I'm currently working on
 * Website for Cortex (VRC Client)
 * Cortex Client in General
@@ -27,7 +32,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
 [![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fwinners-blueviolet?style=for-the-badge&logo=DIscord)][1]
 ## 🛠 Skills
-HTML, CSS, C#, Adobe, FL
+HTML, CSS, C#, Adobe, FL, Photoshop, Unity
+
 ## Tools I use
 
 * MusicBee
