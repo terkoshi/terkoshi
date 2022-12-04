@@ -36,7 +36,7 @@ HTML, CSS, C#, Adobe, FL
 * Everything (VoidTools)
 * Process Hacker (Nightly Build)
 * VMWare (Full Verison)
-* Adobe Products: Photoshop CC 2022,  After Effects 2022, A Substance Painter, Illustrator,
+* Adobe Products: Photoshop CC 2022,  After Effects 2022, A Substance Painter, and Illustrator
 
 # Stats 
 
