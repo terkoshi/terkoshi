@@ -23,7 +23,7 @@
 ## Socials
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
-![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fwinners-blueviolet?style=for-the-badge&logo=DIscord)
+![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fwinners-blueviolet?style=for-the-badge&logo=DIscord)[](https://discord.gg/winners)
 
 
 ## 🛠 Skills
