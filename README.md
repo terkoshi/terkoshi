@@ -1,4 +1,7 @@
-![skullface](https://github.com/descripted/descripted/blob/master/assets/standard.gif?raw=true)
+
+<p align="center">
+  <img src="https://github.com/descripted/descripted/blob/master/assets/standard.gif?raw=true) alt="My Name!"/>
+</p>
 <p align="center">
   <img src="https://github.com/descripted/descripted/blob/master/assets/standard%20(1).gif?raw=true) alt="What I do"/>
 </p>
