@@ -6,7 +6,7 @@
   <img src="https://github.com/descripted/descripted/blob/master/assets/standard%20(1).gif?raw=true) alt="What I do"/>
 </p>
 
-## Hiyo I'm skullface ! 👋
+## Hiyo I'm skullface ! 
 
 
 ###  About Me
