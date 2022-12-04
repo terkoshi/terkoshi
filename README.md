@@ -1,22 +1,33 @@
+![skullface](https://github.com/descripted/descripted/blob/master/assets/standard.gif?raw=true)
+<p align="center">
+  <img src="https://github.com/descripted/descripted/blob/master/assets/standard%20(1).gif?raw=true) alt="What I do"/>
+</p>
 
-## Hiyo I'm $kullface! 
-[![]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descripted&layout=compact&show_icons=true&theme=radical)]()
+## Hiyo I'm skullface ! 👋
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=descripted&show_icons=true&theme=radical)](
 
 ###  About Me
 #### I'm a Active Learner in C#/C++
-#### * 15yrs
-#### * Trans MTF
-* Goals: Game Dev; Cheat Creator; Reverse Engineer
+
+* Goals Game Dev; heat Creator; Reverse Engineer
+* I'm 15 years old
+* Tranny MTF
 
 
-## 🛠 Skills
-HTML, CSS, C#
+
+
 
 ## Socials
 
-![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
+![Twitter Follow](https://img.shields.io/twitter/follow/KoriaVR?style=for-the-badge&logo=Twitter)
 ![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fwinners-blueviolet?style=for-the-badge&logo=DIscord)
 
+
+## 🛠 Skills
+HTML, CSS, C#,
+
+# Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=descripted&layout=compact&show_icons=true&theme=dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=descripted&show_icons=true&theme=dark)
