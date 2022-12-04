@@ -6,11 +6,6 @@
   <img src="https://github.com/descripted/descripted/blob/master/assets/standard%20(1).gif?raw=true) alt="What I do"/>
 </p>
 
-<p align="center>
-           What's Up I'm Skullface (646)
-</p>
-
-
 ###  About Me
 
 * I'm 15 years old : Trans M2F : African/American
@@ -28,7 +23,6 @@
 
 * Website for Cortex (VRC Client)
 * Cortex Client in General
-
 
 ## Socials
 [1]: https://discord.gg/winners
