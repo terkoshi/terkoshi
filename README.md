@@ -16,16 +16,18 @@
 * GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
 * Unity Master
 * Goals: Game Dev; Cheat Creator; Reverse Engineer ; Video Editor; Music Producer; GFX Artist
-## What I'm Learning
+## What I'm learning:
 
 * Photoshop 
 * C++
 * C#
 
-## What I'm currently working on
+## What I'm currently working on:
+
 * Website for Cortex (VRC Client)
 * Cortex Client in General
-* 
+
+
 ## Socials
 [1]: https://discord.gg/winners
 
