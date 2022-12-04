@@ -6,7 +6,9 @@
   <img src="https://github.com/descripted/descripted/blob/master/assets/standard%20(1).gif?raw=true) alt="What I do"/>
 </p>
 
-<h1 align="center>What's Up I'm Skullface (646)</h1>
+<p align="center>
+           What's Up I'm Skullface (646)
+</p>
 
 
 ###  About Me
