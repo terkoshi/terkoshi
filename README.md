@@ -11,7 +11,7 @@
 * I'm 15 years old : Trans M2F : African/American
 * In love <3
 * GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
-* Unity Master
+* Unity Expert
 * Goals: Game Dev; Cheat Creator; Reverse Engineer ; Video Editor; Music Producer; GFX Artist
 ## What I'm learning:
 
