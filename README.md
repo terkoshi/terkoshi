@@ -16,8 +16,8 @@
 ## What I'm learning:
 
 * Photoshop 
-* C++
-* C#
+* C++ = 86%
+* C# = 45%%
 
 ## What I'm currently working on:
 
