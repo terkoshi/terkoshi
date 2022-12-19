@@ -37,6 +37,7 @@ HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 * MusicBee
 * FL Studio : Audacity
 * WizTree
+* ShareX
 * Everything (VoidTools)
 * Process Hacker (Nightly Build)
 * VMWare (Full Verison)
