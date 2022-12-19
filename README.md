@@ -16,8 +16,8 @@
 ## What I'm learning:
 
 * Photoshop 
-* C++ = 86%
-* C# = 45%%
+* C++
+* C#
 
 ## What I'm currently working on:
 
@@ -30,7 +30,7 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
 [![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fderanked-blueviolet?style=for-the-badge&logo=DIscord)][1]
 ## 🛠 Skills
-HTML, CSS, C#, Adobe, FL, Photoshop, Unity
+HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
 ## Tools I use
 
