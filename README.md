@@ -32,14 +32,9 @@ HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
 ## Tools I use
 
-* MusicBee
-* FL Studio : Audacity
-* WizTree
-* ShareX
-* Everything (VoidTools)
-* Process Hacker (Nightly Build)
-* VMWare (Full Verison)
-* Adobe Products: Photoshop CC 2022,  After Effects 2022, A Substance Painter, and Illustrator
+* Audio Producing/Edting: FL Studio, and Audacity
+* QOL: WizTree, ShareX, Everything (VoidTools), Process Hacker (Nightly Build), VMWare (Full Verison), and MusicBee
+* Digital Art/Video Editing/: Adobe Products: Photoshop CC 2022,  After Effects 2022, A Substance Painter, and Illustrator
 
 # Stats 
 
