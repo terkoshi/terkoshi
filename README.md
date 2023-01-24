@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/descripted/descripted/blob/master/assets/welcome.png?raw=true) alt="My Name!"/>
+  <img src="https://github.com/terkoshi/terkoshi/blob/master/assets/welcome.png?raw=true) alt="My Name!"/>
 </p>
 
 
@@ -26,7 +26,7 @@
 [1]: https://discord.gg/winners
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
-[![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2Fderanked-blueviolet?style=for-the-badge&logo=DIscord)][1]
+[![Discord Server](https://img.shields.io/badge/My%20Discord-%20discord.gg%2sql-blueviolet?style=for-the-badge&logo=DIscord)][1]
 ## 🛠 Skills
 HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
@@ -38,6 +38,6 @@ HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
 # Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terkoshi&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terkoshi=&layout=compact&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terkoshi&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terkoshi=&show_icons=true&theme=dark)
