@@ -5,7 +5,7 @@
 
 
 ###  About Me
-
+* niggas? nah neganjo :trollface:
 * I'm 15 years old : Trans M2F : African/American
 * In love <3
 * GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
