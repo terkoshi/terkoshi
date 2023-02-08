@@ -19,8 +19,8 @@
 
 ## What I'm currently working on:
 
-* Website for Cortex (VRC Client)
-* Cortex Client in General
+* PRIVER.PARTY (VRC Mod)
+* PRIVER.PARTY (WEBSITE)
 
 ## Socials
 [1]: https://discord.gg/winners
