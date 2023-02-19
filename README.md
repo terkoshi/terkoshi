@@ -38,6 +38,6 @@ HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
 # Stats 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terkoshi=&layout=compact&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terkoshi?=&layout=compact&show_icons=true&theme=dark)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terkoshi=&show_icons=true&theme=dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terkoshi?=&show_icons=true&theme=dark)
