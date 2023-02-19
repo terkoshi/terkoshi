@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://github.com/terkoshi/terkoshi/blob/master/assets/banner.png?raw=true) alt="My Name!"/>
+  <img src="https://github.com/terkoshi/terkoshi/blob/master/assets/wrap.png?raw=true) alt="My Name!"/>
 </p>
 
 
