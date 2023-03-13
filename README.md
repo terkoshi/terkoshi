@@ -10,10 +10,10 @@
 * In love <3
 * GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
 * Unity Expert
-* Goals: Game Dev; Cheat Creator; Reverse Engineer ; Video Editor; Music Producer; GFX Artist
+
 ## What I'm learning:
 
-* Photoshop 
+* Photoshop/Adobe AE/FL
 * C++
 * C#
 
@@ -23,7 +23,6 @@
 * PRIVER.PARTY (WEBSITE)
 
 ## Socials
-[1]: https://discord.gg/winners
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
 ## 🛠 Skills
@@ -36,7 +35,3 @@ HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 * Digital Art/Video Editing/: Adobe Products: Photoshop CC 2022,  After Effects 2022, A Substance Painter, and Illustrator
 
 # Stats 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=terkoshi?=&layout=compact&show_icons=true&theme=dark)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=terkoshi?=&show_icons=true&theme=dark)
