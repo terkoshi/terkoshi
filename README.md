@@ -8,7 +8,7 @@
 * niggas? nah neganjo :trollface:
 * I'm 16 years old : Trans M2F : African/American
 * In love <3
-* GFX Artist; Semi Decent Video Editor; Audio Editor ; VRChat Content Creator ; Semi Game Modder
+* GFX Artist; Video Editor; Audio Editor 
 * Unity Expert
 
 ## What I'm learning:
