@@ -19,12 +19,8 @@
 
 ## What I'm currently working on:
 
-* PRIVER.PARTY (VRC Mod)
-* PRIVER.PARTY (WEBSITE)
+* Nothing
 
-## Socials
-
-![Twitter Follow](https://img.shields.io/twitter/follow/skullface646?style=for-the-badge&logo=Twitter)
 ## 🛠 Skills
 HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
