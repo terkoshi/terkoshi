@@ -1,4 +1,4 @@
-<!DOC TYPE>
+<!DOCTYPE html>
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/106857740?v=4" alt="Current PFP"/>
 </div>
