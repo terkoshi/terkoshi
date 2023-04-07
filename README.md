@@ -2,11 +2,6 @@
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/106857740?v=4" alt="Current PFP"/>
 </div>
-```html 
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/4nQaqtRqUSStWLbPr0g2Qj?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-```
-
-
 
 ###  About Me
 * niggas? nah neganjo :trollface:
