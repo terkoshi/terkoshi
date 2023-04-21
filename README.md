@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" style="border: 1px solid black" >
   <img src="https://avatars.githubusercontent.com/u/106857740?v=4" alt="Current PFP"/>
 </div>
 
