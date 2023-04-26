@@ -1,6 +1,6 @@
 
 <div align="center" style="border: 1px solid black" >
-  <img src="https://avatars.githubusercontent.com/u/106857740?v=4" alt="Current PFP"/>
+  <img src="https://cdn.discordapp.com/attachments/1060633102323568812/1100662962567528508/tk.png" alt="Current PFP"/>
 </div>
 
 ###  About Me
