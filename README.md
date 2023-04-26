@@ -1,6 +1,6 @@
 
 <div align="center" style="border: 1px solid black" >
-  <img src="https://media.discordapp.net/attachments/1060633102323568812/1100662962567528508/tk.png?width=16&height=16" alt="Current PFP"/>
+  <img src="https://media.discordapp.net/attachments/1060633102323568812/1100662962567528508/tk.png?width=50&height=50" alt="Current PFP"/>
 </div>
 
 ###  About Me
