@@ -6,7 +6,7 @@
 ###  About Me
 * niggas? nah neganjo :trollface:
 * I'm 16 years old : Trans M2F : African/American
-* In love <3
+* Wxlfie is a hoodlum and I love it
 * GFX Artist; Video Editor; Audio Editor 
 * Unity Expert
 
