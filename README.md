@@ -16,10 +16,6 @@
 * C++
 * C#
 
-## What I'm currently working on:
-
-* Polyivion Remastered
-
 ## 🛠 Skills
 HTML, CSS, C#, FL, Photoshop, Substance Painter, Unity
 
